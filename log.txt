@@ -1,0 +1,15 @@
+CRE --- 01/06/2022 12:32 --- vkbot class: bot class object created
+NEW --- 01/06/2022 12:32 --- vkbot class: new message from 372330204
+SENT --- 01/06/2022 12:32 --- vkbot class: start message
+CRE --- 01/06/2022 12:33 --- vkbot class: bot class object created
+NEW --- 01/06/2022 12:33 --- vkbot class: new message from 372330204
+GET --- 01/06/2022 12:33 --- schedule class: schedule class object: got week number
+CRE --- 01/06/2022 12:33 --- schedule class: schedule class object: created
+CHECK --- 01/06/2022 12:33 --- schedule class: schedule class object: surnames checked
+SENT --- 01/06/2022 12:33 --- vkbot class: teacher's schedule message
+CRE --- 01/06/2022 12:33 --- vkbot class: bot class object created
+NEW --- 01/06/2022 12:33 --- vkbot class: new message from 372330204
+GET --- 01/06/2022 12:33 --- schedule class: schedule class object: got week number
+CRE --- 01/06/2022 12:33 --- schedule class: schedule class object: created
+GET --- 01/06/2022 12:33 --- schedule class: schedule class object: got week schedule
+SENT --- 01/06/2022 12:33 --- vkbot class: teacher's schedule message
